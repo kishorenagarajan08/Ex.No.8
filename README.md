@@ -1,8 +1,8 @@
 # Ex.No.8 – Reproducing an Image Using Prompts for Image Generation
 
-## Date: 11/09/2026
-## Name : Stephen raj Y
-## Register No.: 212223230217
+
+## Name : Kishore N
+## Register No.: 212223230106
 
 ## Aim:
 
